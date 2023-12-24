@@ -14,7 +14,7 @@ npm install
 ```bash
 npm start
 ```
-o serve esta rodando http://localhost:5000/
+- o serve esta rodando http://localhost:5000/
 
 - entre na pasta client
 ```bash
@@ -28,7 +28,7 @@ npm install
 ```bash
 npm start
 ```
-O app está rodando  http://localhost:3000/
+- O app está rodando  http://localhost:3000/
 
 # Server 1.0
 
